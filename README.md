@@ -1,6 +1,8 @@
 Alefood – classificação de restaurantes
 
-![Uploading image.png…]()
+![image](https://github.com/rodrigo2345/PAS23-24/assets/151518602/d304cd14-8b88-4420-8449-9d76482a9b81)
+
+
 
 
 
