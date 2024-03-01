@@ -1,7 +1,7 @@
 Alefood – classificação de restaurantes
 
 ![Uploading image.png…]()
-9)
+
 
 
 ▌│█║▌║▌║ 𝗔𝗹𝗲𝗙𝗼𝗼𝗱 ║▌║▌║█│▌
